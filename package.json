@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Node.js Hello World program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omairqazi/helloworld.git"
+  },
+  "author": "Omair Ahmed <omairqazi.29@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omairqazi/helloworld/issues"
+  },
+  "homepage": "https://github.com/omairqazi/helloworld#readme"
+}
